@@ -251,6 +251,7 @@ function App() {
 							)}
 						</div>
 						<div className="block w-full sm:hidden">{searchBar}</div>
+						<Button>New button my friend</Button>
 					</nav>
 				</header>
 
